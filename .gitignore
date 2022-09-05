@@ -1,0 +1,6 @@
+*target/
+*reports/
+/.metadata
+/.settings/
+/.classpath/
+.gitignore.bak
